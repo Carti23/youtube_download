@@ -1,1 +1,1 @@
-# youtube_download use ydl library
+# youtube_download use yt_dlp library
